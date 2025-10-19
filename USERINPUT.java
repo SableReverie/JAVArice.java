@@ -10,7 +10,7 @@ public class Main{
      age = scanner.nextInt();
      scanner.close();
      
-     System.out.println("My age is: " + age);
+     System.out.println("My age is:: " + age);
         
     }
 }
